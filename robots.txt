@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /chrome-steam-hover//installed
+Disallow: /chrome-steam-hover/installed
