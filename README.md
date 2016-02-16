@@ -1,1 +1,7 @@
-# skylark95.github.io
+# Skylark95
+
+## Projects
+
+#### [Chrome Steam Hover](https://github.com/Skylark95/chrome-steam-hover/)**
+
+Show Steam app details with mouse hover on a Steam link.
