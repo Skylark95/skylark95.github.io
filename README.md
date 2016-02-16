@@ -3,6 +3,7 @@
 **Contents**
   1. [Website](#website)
   2. [Programs](#programs)
+  3. [Android Apps](#android-apps)
 
 ## Website
 https://www.skylark95.com/
@@ -37,7 +38,6 @@ Discontinued Java Application that was meant to replace Imgur Album Downloader. 
 One of the first Swing Java Applications that I wrote.  The program is years old and likely no longer works.
   * [Download](https://www.skylark95.com/291/imgur-album-downloader-v1-0-beta/)
   * [Blog](https://www.skylark95.com/tag/imgur-album-downloader)
-  * 
 
 ## Android Apps
 https://www.skylark95.com/android-apps/
