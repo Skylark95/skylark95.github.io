@@ -1,13 +1,13 @@
 # Skylark95
 
-## Contents
+**Contents**
   1. [Website](#website)
   2. [Programs](#programs)
 
 ## Website
 https://www.skylark95.com/
 
-## Programs
+### Programs
 https://www.skylark95.com/programs/
 
 #### Steam Hover
