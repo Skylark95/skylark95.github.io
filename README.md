@@ -1,5 +1,9 @@
 # Skylark95
 
+## Contents
+  1. [Website](#website)
+  2. [Programs](#programs)
+
 ## Website
 https://www.skylark95.com/
 
@@ -11,7 +15,7 @@ Show Steam app details with mouse hover on a Steam link.
   * [Site](https://skylark95.github.io/chrome-steam-hover/)
   * [Download](https://chrome.google.com/webstore/detail/jfakmahmklpeigafdahkgkmnlmfjaphd)
   * [Source Code](https://github.com/Skylark95/chrome-steam-hover/)
-  
+
 #### Steam Context Menu
 A simple context menu for Chrome to search Steam.
   * [Download](https://chrome.google.com/webstore/detail/mcglhmpnpongdigcmccjallgoinlklnj)
