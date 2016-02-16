@@ -37,3 +37,16 @@ Discontinued Java Application that was meant to replace Imgur Album Downloader. 
 One of the first Swing Java Applications that I wrote.  The program is years old and likely no longer works.
   * [Download](https://www.skylark95.com/291/imgur-album-downloader-v1-0-beta/)
   * [Blog](https://www.skylark95.com/tag/imgur-album-downloader)
+  * 
+
+## Android Apps
+https://www.skylark95.com/android-apps/
+
+#### Free App Notifier For Amazon
+Free App Notifier For Amazon is a free and open source notification manager for providing notifications for the free app of the day on the Amazon Appstore.
+  * [Download](https://play.google.com/store/apps/details?id=com.skylark95.amazonfreenotify)
+  * [Source Code](https://github.com/Skylark95/Amazon-App-Notifier)
+
+#### Gamercide
+The Gamercide Android App. View the forums in a manner that provide many more options than the standard mobile view!
+  * [Download](https://play.google.com/store/apps/details?id=com.skylark95.gamercide)
